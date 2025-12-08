@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "68e93f8edf8c38488c522163"
+  },
+  "email": "nathwanijeet96@gmail.com",
+  "sendemail": "tomnjerry5508@gmail.com",
+  "report": "user is not work good",
+  "role": "Landowner",
+  "status": "Pending"
+}]

@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "68d30019558949d7ba76c80c"
+  },
+  "name": "Jeet Nathwani",
+  "email": "nathwanijeet96@gmail.com",
+  "phone": "123567890",
+  "location": "Surat",
+  "landsize": "5 acres",
+  "land_location": "vasad",
+  "land_number": "GH0123",
+  "soil": "sand",
+  "ph": "4.5",
+  "N": "03",
+  "status": "Verify By Admin",
+  "experience": "2 years on platform",
+  "appliedDate": "2023-11-20",
+  "documents": [
+    "land_ownership11",
+    "identity_proof11",
+    "land_report11"
+  ],
+  "DOB": "1978-09-25",
+  "adhar": "12348906754",
+  "role": "Landowner",
+  "password": "rtw@123",
+  "k": "56",
+  "p": "89",
+  "land_city": "Dahod"
+},
+{
+  "_id": {
+    "$oid": "68d306be558949d7ba76c80d"
+  },
+  "name": "Bhavik paeger",
+  "email": "pargarbhavik@gmail.com",
+  "phone": "7698448083",
+  "location": "Ahmedabad",
+  "landsize": "2 acres",
+  "land_location": "Vad",
+  "land_number": "GH0123",
+  "soil": "sand",
+  "ph": "10",
+  "N": "70",
+  "status": "Verify By Admin",
+  "experience": "Frist time to platform",
+  "appliedDate": "2024-01-15",
+  "documents": [
+    "land_ownership",
+    "identity_proof",
+    "land_report"
+  ],
+  "DOB": "1990-010-25",
+  "adhar": "12348906754",
+  "role": "Landowner",
+  "password": "ui@123",
+  "k": "43",
+  "p": "34",
+  "land_city": "Vadodara"
+},
+{
+  "_id": {
+    "$oid": "68d6be60c31f479397485472"
+  },
+  "name": "khushi Patel",
+  "email": "tomnjerry5508@gmail.com",
+  "phone": "123567890",
+  "location": "Surat",
+  "appliedDate": "2024-01-05",
+  "status": "Verify By Admin",
+  "experience": "3 years in farm management",
+  "documents": [
+    "id_proof11"
+  ],
+  "role": "Manager",
+  "password": "Khushi@234",
+  "skills": "crops management , management",
+  "crop": "rice,wheat",
+  "DOB": "12/05/25",
+  "adar": "12345678912",
+  "manager_city": "Dahod"
+},
+{
+  "_id": {
+    "$oid": "68e9d50af2712964eca17841"
+  },
+  "name": "Jeet Nathwani",
+  "email": "jeetnathwani660@gmail.com",
+  "phone": "7567120438",
+  "location": "c/61,saroj park-2,gorwa,vadodara",
+  "landsize": "3",
+  "land_location": "vasad",
+  "land_city": "Vadodara",
+  "land_number": "GH012",
+  "experience": "first time",
+  "DOB": "2003-12-26",
+  "adhar": "4570151457",
+  "soil": "sand",
+  "ph": "7.5",
+  "N": "05",
+  "p": "90",
+  "k": "78",
+  "role": "Landowner",
+  "status": "Verify By Admin",
+  "appliedDate": "2025-10-11",
+  "password": "Jeet@123",
+  "documents": [
+    "Milestone-2(1)",
+    "Milestone-2",
+    "Milestone1-2"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68e9da7ef2712964eca17843"
+  },
+  "name": "Meet Rana",
+  "email": "meetrana3009@gmail.com",
+  "phone": "9173146195",
+  "location": "c/61,saroj park-2,gorwa,vadodara",
+  "experience": "first time",
+  "DOB": "2004-02-09",
+  "manager_city": "Vadodara",
+  "adhar": "4570151457",
+  "skills": "crops mengement,time management",
+  "crop": "rice,apple,banana",
+  "role": "Manager",
+  "status": "Verify By Admin",
+  "appliedDate": "2025-10-11",
+  "password": "Jeet@123",
+  "documents": [
+    "adhar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ea288a107d27685d7fe630"
+  },
+  "name": "Milan",
+  "email": "milanparmar1801@gmail.com",
+  "phone": "9537479575",
+  "location": "vasad",
+  "experience": "first time",
+  "DOB": "2025-10-22",
+  "manager_city": "Vadodara",
+  "adhar": "4570151457",
+  "skills": "crops mengement,time management",
+  "crop": "rice,apple,banana",
+  "role": "Manager",
+  "status": "Verify By Admin",
+  "appliedDate": "2025-10-11",
+  "password": "Milan@123",
+  "documents": [
+    "adhar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ea9031753614de93d635cc"
+  },
+  "name": "Aryan Patel",
+  "email": "aryanpatel123@gmail.com",
+  "phone": "7567120410",
+  "location": "C/12, Raj Nagar, Gorwa, Vadodara",
+  "landsize": "3",
+  "land_location": "Vasad",
+  "land_city": "Vadodara",
+  "land_number": "GH201",
+  "experience": "first time",
+  "DOB": "2003-12-26",
+  "adhar": "4570151460",
+  "soil": "sand",
+  "ph": "7.5",
+  "N": "05",
+  "p": "90",
+  "k": "78",
+  "role": "Landowner",
+  "status": "pendding",
+  "appliedDate": "2025-10-11",
+  "documents": [
+    "AadharCard.pdf",
+    "LandOwnership.pdf",
+    "SoilTestReport.pdf"
+  ],
+  "password": "Aryan@123"
+},
+{
+  "_id": {
+    "$oid": "68ee6fe695bdcf601596820e"
+  },
+  "name": "Ram Patel",
+  "email": "ram623420@gmail.com",
+  "phone": "7567120438",
+  "location": "sokhda,vadodara",
+  "experience": "first time",
+  "DOB": "2002-06-19",
+  "manager_city": "Vadodara",
+  "adhar": "4570151457",
+  "skills": "crops mengement,time management",
+  "crop": "rice,apple,banana",
+  "role": "Manager",
+  "status": "pendding",
+  "appliedDate": "2025-10-14",
+  "password": "Ram@1234",
+  "documents": [
+    "adhar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "68ee837c95bdcf601596820f"
+  },
+  "name": "Rajan Nathwani",
+  "email": "nathwanijeet96@gmail.com",
+  "phone": "9537479575",
+  "location": "vasad",
+  "landsize": "3",
+  "land_location": "vasad",
+  "land_city": "vadodara",
+  "land_number": "GH012",
+  "experience": "first time",
+  "DOB": "2004-12-06",
+  "adhar": "4570151457",
+  "soil": "sand",
+  "ph": "7.5",
+  "N": "05",
+  "p": "90",
+  "k": "78",
+  "role": "Landowner",
+  "status": "pendding",
+  "appliedDate": "2025-10-14",
+  "password": "Rajan@123",
+  "documents": [
+    "unit--3 fsd",
+    "adhar",
+    "mca"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6933b1ed53b469a302ea550d"
+  },
+  "name": "jay patel",
+  "email": "jaypatel184002@gmail.com",
+  "phone": "6355520913",
+  "location": "NADIAD",
+  "experience": "10",
+  "DOB": "2025-12-06",
+  "manager_city": "Vadodara",
+  "adhar": "4570151457",
+  "skills": "crops mengement,time management",
+  "crop": "rice,apple,banana",
+  "role": "Manager",
+  "status": "pendding",
+  "appliedDate": "2025-12-06",
+  "password": "Jay@182004",
+  "documents": [
+    "phall"
+  ]
+}]

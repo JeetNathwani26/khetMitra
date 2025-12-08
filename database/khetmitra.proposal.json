@@ -1,0 +1,174 @@
+[{
+  "_id": {
+    "$oid": "68de7b861aa3cb2359c5f172"
+  },
+  "emails": "nathwanijeet96@gmail.com",
+  "sendemail": "hs8851154@gmail.com",
+  "form": {
+    "duration": "2",
+    "term": [
+      "Plan and execute all farming activities, including plowing, sowing, irrigation scheduling, crop protection, harvesting, and storage.",
+      "Ensure timely planting and harvesting as per seasonal requirements.",
+      "Procure quality seeds, fertilizers, pesticides, and other agricultural inputs."
+    ],
+    "crops": "watermelon"
+  },
+  "phone": "123567890",
+  "status": "Rejected"
+},
+{
+  "_id": {
+    "$oid": "68de80f01aa3cb2359c5f178"
+  },
+  "emails": "jeetnathwani660@gmail.com",
+  "sendemail": "pargarbhavik@gmail.com",
+  "form": {
+    "duration": "3",
+    "term": [
+      "Hand over land in a cultivable condition at the start of the agreement.",
+      "Provide the agreed agricultural land free from legal disputes, encroachments, or third-party claims."
+    ],
+    "crops": "rice"
+  },
+  "phone": "7698448083",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68de829d1aa3cb2359c5f17b"
+  },
+  "emails": "hs8851154@gmail.com",
+  "sendemail": "nathwanijeet96@gmail.com",
+  "form": {
+    "duration": "2",
+    "term": [
+      "Provide the agreed agricultural land free from legal disputes, encroachments, or third-party claims.",
+      "Hand over land in a cultivable condition at the start of the agreement."
+    ],
+    "crops": "papaya"
+  },
+  "phone": "123567890",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68e1448536ae09edb366f72a"
+  },
+  "emails": "pargarbhavik@gmail.com",
+  "sendemail": "hs8851154@gmail.com",
+  "form": {
+    "duration": "0",
+    "term": [
+      "Ensure timely planting and harvesting as per seasonal requirements.",
+      "Procure quality seeds, fertilizers, pesticides, and other agricultural inputs.",
+      "Maintain proper records of all purchased inputs and usage."
+    ],
+    "crops": "rice"
+  },
+  "phone": "123567890",
+  "status": "Accepted"
+},
+{
+  "_id": {
+    "$oid": "68e2ced636ae09edb366f72e"
+  },
+  "emails": "jeetnathwani660@gmail.com",
+  "sendemail": "nathwanijeet96@gmail.com",
+  "form": {
+    "duration": "3",
+    "term": [
+      "Provide the agreed agricultural land free from legal disputes, encroachments, or third-party claims.",
+      "Hand over land in a cultivable condition at the start of the agreement."
+    ],
+    "crops": "papaya"
+  },
+  "phone": "123567890",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68e77d25b63b30af83d958fc"
+  },
+  "emails": "pargarbhavik@gmail.com",
+  "sendemail": "tomnjerry5508@gmail.com",
+  "form": {
+    "duration": "3",
+    "term": [
+      "Plan and execute all farming activities, including plowing, sowing, irrigation scheduling, crop protection, harvesting, and storage.",
+      "Ensure timely planting and harvesting as per seasonal requirements.",
+      "Procure quality seeds, fertilizers, pesticides, and other agricultural inputs."
+    ],
+    "crops": "rice"
+  },
+  "phone": "123567890",
+  "status": "Accepted"
+},
+{
+  "_id": {
+    "$oid": "68e968bf0a84cfd2b6ed41d1"
+  },
+  "emails": "tomnjerry5508@gmail.com",
+  "sendemail": "nathwanijeet96@gmail.com",
+  "form": {
+    "duration": "2",
+    "term": [
+      "Support basic infrastructure like fencing, storage, or sheds if agreed.",
+      "Do not interfere in daily farming operations managed by the Manager/Company."
+    ],
+    "crops": "papaya"
+  },
+  "phone": "123567890",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68ebd382fcba69ad8987f83f"
+  },
+  "emails": "jeetnathwani660@gmail.com",
+  "sendemail": "meetrana3009@gmail.com",
+  "form": {
+    "duration": "2",
+    "term": [
+      "Ensure timely planting and harvesting as per seasonal requirements.",
+      "Procure quality seeds, fertilizers, pesticides, and other agricultural inputs."
+    ],
+    "crops": "chickpea"
+  },
+  "phone": "9173146195",
+  "status": "Accepted"
+},
+{
+  "_id": {
+    "$oid": "68ebe77efcba69ad8987f843"
+  },
+  "emails": "milanparmar1801@gmail.com",
+  "sendemail": "jeetnathwani660@gmail.com",
+  "form": {
+    "duration": "1",
+    "term": [
+      "Hand over land in a cultivable condition at the start of the agreement.",
+      "Provide the agreed agricultural land free from legal disputes, encroachments, or third-party claims."
+    ],
+    "crops": "mango"
+  },
+  "phone": "7567120438",
+  "status": "pending"
+},
+{
+  "_id": {
+    "$oid": "68ee0e155f9de96e318f35f5"
+  },
+  "emails": "jeetnathwani660@gmail.com",
+  "sendemail": "milanparmar1801@gmail.com",
+  "form": {
+    "duration": "2",
+    "term": [
+      "Ensure timely planting and harvesting as per seasonal requirements.",
+      "Procure quality seeds, fertilizers, pesticides, and other agricultural inputs.",
+      "Maintain proper records of all purchased inputs and usage."
+    ],
+    "crops": "chickpea"
+  },
+  "phone": "9537479575",
+  "status": "Accepted"
+}]
