@@ -1,0 +1,48 @@
+# -------------------------
+# Python Cache / Compiled Files
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# -------------------------
+# Virtual Environments
+# -------------------------
+venv/
+env/
+.venv/
+.conda/
+.idea/
+
+# -------------------------
+# Jupyter / Notebook Cache
+# -------------------------
+.ipynb_checkpoints
+
+# -------------------------
+# Logs and Temporary Files
+# -------------------------
+*.log
+*.tmp
+*.bak
+
+# -------------------------
+# Dataset / Model Files (Optional)
+# uncomment if you don't want to upload them
+# -------------------------
+# *.csv
+# *.json
+# *.h5
+# *.pkl
+# *.joblib
+# *.pt
+# *.onnx
+# models/
+# datasets/
+
+# -------------------------
+# IDE / Editor Configs
+# -------------------------
+.vscode/
+*.swp
